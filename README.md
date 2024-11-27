@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Lagvankar</h1>
 <h3 align="center">A passionate programmer about AI, ML and algorithms.</h3>
-<img alt="programmergif" width ="300px" align="right" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j0TrvIFjTJHu4gI3YGGZj&ust=1732808543425000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCqsoHt_IkDFQAAAAAdAAAAABAE)">
+<img alt="programmergif" width ="300px" align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 🔭 I’m currently working on AI, ML<br>🌱 I’m currently learning Gen AI, ML, LLMs, Computer Vision, Quant<br>👯 I’m looking to collaborate on ML projects<br>📝 I write articles on https://medium.com/@shantanulagvankar<br>📫 How to reach me shantanulagvankar@gmail.com<br>⚡ Fun fact I think I am a little bit lazy😜 <br> 🏹 Hobbies: Fitness and bodybuilding enthusiast, cycling, exploring new things on internet.
 
 
